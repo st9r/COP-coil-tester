@@ -20,6 +20,7 @@ A simple tester for ignition coils using an Arduino. This project allows you to 
   - NPN power transistor (e.g., BD139 used in this case)
   - P-channel MOSFET (e.g., IRFR5305)
 - **Other Components:**
+  - Arduino Nano / Uno | LGT8F328P
   - Rectifier diode
   - 12-14V power supply
   - DC-DC buck converter (e.g., LM2596 or similar)
